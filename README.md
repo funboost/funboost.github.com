@@ -1,1 +1,1 @@
-# funboost.github.com
+# funboost.github.io
